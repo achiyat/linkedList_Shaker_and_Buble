@@ -1,0 +1,12 @@
+﻿  sorted_list_class.c
+C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\Shaker and Buble\sorted_list_class\sorted_list_class\sorted_list_class.c(71,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\Shaker and Buble\sorted_list_class\sorted_list_class\sorted_list_class.c(77,18): warning C4013: 'getch' undefined; assuming extern returning int
+C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\Shaker and Buble\sorted_list_class\sorted_list_class\sorted_list_class.c(364,19): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\Shaker and Buble\sorted_list_class\sorted_list_class\sorted_list_class.c(370,17): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\Shaker and Buble\sorted_list_class\sorted_list_class\sorted_list_class.c(374,19): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\Shaker and Buble\sorted_list_class\sorted_list_class\sorted_list_class.c(376,17): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\Shaker and Buble\sorted_list_class\sorted_list_class\sorted_list_class.c(386,19): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\Shaker and Buble\sorted_list_class\sorted_list_class\sorted_list_class.c(392,17): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\Shaker and Buble\sorted_list_class\sorted_list_class\sorted_list_class.c(396,19): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\Shaker and Buble\sorted_list_class\sorted_list_class\sorted_list_class.c(398,17): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+  sorted_list_class.vcxproj -> C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\Shaker and Buble\sorted_list_class\x64\Debug\sorted_list_class.exe
